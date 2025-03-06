@@ -1,0 +1,13 @@
+40/40 points
+
+Subtask 1
+20 Points
+L = 25, 30 <= N <= 50
+Success!
+You have successfully solved this subtask!
+
+Subtask 2
+20 Points
+25 <= L <= 4000, 300 <= M <= 1000
+Success!
+You have successfully solved this subtask!

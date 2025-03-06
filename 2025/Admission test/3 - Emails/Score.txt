@@ -1,0 +1,18 @@
+50/80 points
+
+Subtask 1
+20 Points
+1 <= N <= 500, M = 1, 1 <= t <= 10, 1 <= f <= 10
+Success!
+You have successfully solved this subtask!
+
+Subtask 2
+30 Points
+1 <= N <= 1000, 1 <= M <= 100, 1 <= t <= 10, 1 <= f <= 10
+Success!
+You have successfully solved this subtask!
+
+Subtask 3
+30 Points
+1 <= N <= 100000, 1 <= M <= 1000000, 1 <= t <= 10, 1 <= f <= 100
+Start a new submission
